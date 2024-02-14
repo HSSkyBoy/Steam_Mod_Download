@@ -5,7 +5,7 @@
 // @version 0.3
 // @description 添加一个按钮用于根据Mod原链接跳转到steamworkshop.download并搜索网站相应Mod下载
 // @description:zh-TW 增添一个按鈕用來根據模組原連接跳轉到steamworkshop.download並搜索網站对應模組下載  
-// @author HSSadBoy
+// @author HSSkyBoy
 // @license CC-BY-NC-ND 4.0
 // @match *//steamcommunity.com/*
 // @march *//s.team/*
